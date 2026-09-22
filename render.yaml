@@ -18,7 +18,7 @@ services:
       - key: DB_HOST
         sync: false
       - key: DB_PORT
-        value: "3306"
+        value: "5432"
       - key: DB_NAME
         value: emmy_j_code
       - key: DB_USER
