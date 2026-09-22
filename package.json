@@ -1,0 +1,34 @@
+{
+  "name": "emmy-j-code",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Emmy J Code learning platform backend",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js",
+    "setup-db": "node scripts/setup-database.js",
+    "check": "node --check server/server.js",
+    "android:init": "npx cap init \"Emmy J Code\" com.emmyjcode.app --web-dir .",
+    "android:add": "npx cap add android",
+    "android:sync": "npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-session": "^1.19.0",
+    "helmet": "^8.0.0",
+    "mysql2": "^3.11.5",
+    "sharp": "^0.35.4"
+  },
+  "allowScripts": {
+    "bcrypt@6.0.0": true
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "brand": "Emmy J Code",
+  "levels": [
+    {
+      "id": "beginner",
+      "name": "Beginner",
+      "description": "Computer fundamentals and confident everyday computer use",
+      "status": "active",
+      "modules": [
+        {
+          "id": "bf-01",
+          "title": "Computer Fundamentals",
+          "lessons": [
+            {
+              "id": "bf-01-02",
+              "title": "Parts of a Computer",
+              "file": "lessons/computer-fundamentals-02.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-02-test.html"
+            },
+            {
+              "id": "bf-01-03",
+              "title": "Hardware and Software",
+              "file": "lessons/computer-fundamentals-03.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-03-test.html"
+            },
+            {
+              "id": "bf-01-04",
+              "title": "Input, Processing, Output and Storage",
+              "file": "lessons/computer-fundamentals-04.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-04-test.html"
+            },
+            {
+              "id": "bf-01-05",
+              "title": "Types of Computers",
+              "file": "lessons/computer-fundamentals-05.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-05-test.html"
+            },
+            {
+              "id": "bf-01-06",
+              "title": "Computer Safety and Care",
+              "file": "lessons/computer-fundamentals-06.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-06-test.html"
+            },
+            {
+              "id": "bf-01-07",
+              "title": "Starting and Shutting Down a Computer",
+              "file": "lessons/computer-fundamentals-07.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-07-test.html"
+            },
+            {
+              "id": "bf-01-08",
+              "title": "The Desktop and Windows",
+              "file": "lessons/computer-fundamentals-08.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-08-test.html"
+            },
+            {
+              "id": "bf-01-09",
+              "title": "Files, Folders and Storage Locations",
+              "file": "lessons/computer-fundamentals-09.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-09-test.html"
+            },
+            {
+              "id": "bf-01-10",
+              "title": "Keyboard and Mouse Foundations",
+              "file": "lessons/computer-fundamentals-10.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-10-test.html"
+            },
+            {
+              "id": "bf-01-11",
+              "title": "Programs, Apps and Basic Settings",
+              "file": "lessons/computer-fundamentals-11.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-11-test.html"
+            },
+            {
+              "id": "bf-01-12",
+              "title": "Computer Skills Review and Readiness",
+              "file": "lessons/computer-fundamentals-12.html",
+              "status": "complete-in-pack",
+              "teaching_mode": "deep practical teaching: what, why, when, exact steps, screen cues, mistakes, troubleshooting, practice, mastery test",
+              "test": "lessons/computer-fundamentals-12-test.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intermediate",
+      "name": "Intermediate",
+      "description": "Practical computer operation",
+      "status": "active",
+      "modules": [
+        {
+          "id": "intermediate-core",
+          "title": "Practical Computer Operation",
+          "lessons": [
+            {
+              "id": "im-01",
+              "title": "Keyboard Mastery",
+              "file": "lessons/keyboard-mastery.html",
+              "test": "lessons/keyboard-mastery-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-02",
+              "title": "Mouse Mastery",
+              "file": "lessons/mouse-mastery.html",
+              "test": "lessons/mouse-mastery-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-03",
+              "title": "Windows and Operating Systems",
+              "file": "lessons/windows-operating-systems.html",
+              "test": "lessons/windows-operating-systems-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-04",
+              "title": "Files and Folders",
+              "file": "lessons/files-and-folders.html",
+              "test": "lessons/files-and-folders-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-05",
+              "title": "Internet and Browsers",
+              "file": "lessons/internet-and-browsers.html",
+              "test": "lessons/internet-and-browsers-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-06",
+              "title": "Email",
+              "file": "lessons/email.html",
+              "test": "lessons/email-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-07",
+              "title": "Microsoft Word",
+              "file": "lessons/microsoft-word.html",
+              "test": "lessons/microsoft-word-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-08",
+              "title": "Spreadsheets",
+              "file": "lessons/spreadsheets.html",
+              "test": "lessons/spreadsheets-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-09",
+              "title": "Presentations",
+              "file": "lessons/presentations.html",
+              "test": "lessons/presentations-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-10",
+              "title": "Printing and Peripherals",
+              "file": "lessons/printing-peripherals.html",
+              "test": "lessons/printing-peripherals-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-11",
+              "title": "Computer Security",
+              "file": "lessons/computer-security.html",
+              "test": "lessons/computer-security-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-12",
+              "title": "Networking Basics",
+              "file": "lessons/networking-basics.html",
+              "test": "lessons/networking-basics-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-13",
+              "title": "Troubleshooting",
+              "file": "lessons/troubleshooting.html",
+              "test": "lessons/troubleshooting-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "im-14",
+              "title": "Real-World Digital Skills",
+              "file": "lessons/real-world-digital-skills.html",
+              "test": "lessons/real-world-digital-skills-test.html",
+              "status": "complete-in-pack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced",
+      "description": "Advanced IT and troubleshooting",
+      "status": "active",
+      "modules": [
+        {
+          "id": "advanced-core",
+          "title": "Advanced IT Skills",
+          "lessons": [
+            {
+              "id": "ad-01",
+              "title": "Advanced Operating Systems",
+              "file": "lessons/advanced-operating-systems.html",
+              "test": "lessons/advanced-operating-systems-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-02",
+              "title": "Networking and Connectivity",
+              "file": "lessons/advanced-networking.html",
+              "test": "lessons/advanced-networking-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-03",
+              "title": "System Troubleshooting",
+              "file": "lessons/advanced-system-troubleshooting.html",
+              "test": "lessons/advanced-system-troubleshooting-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-04",
+              "title": "Security Practices",
+              "file": "lessons/advanced-security.html",
+              "test": "lessons/advanced-security-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-05",
+              "title": "Backup and Recovery",
+              "file": "lessons/backup-recovery.html",
+              "test": "lessons/backup-recovery-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-06",
+              "title": "Productivity Workflows",
+              "file": "lessons/advanced-productivity.html",
+              "test": "lessons/advanced-productivity-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-07",
+              "title": "Cloud Concepts",
+              "file": "lessons/cloud-concepts.html",
+              "test": "lessons/cloud-concepts-test.html",
+              "status": "complete-in-pack"
+            },
+            {
+              "id": "ad-08",
+              "title": "Advanced Practical IT",
+              "file": "lessons/advanced-practical-it.html",
+              "test": "lessons/advanced-practical-it-test.html",
+              "status": "complete-in-pack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "description": "Separate paid programming curriculum",
+      "status": "locked-until-rank-and-payment",
+      "modules": [
+        "Programming foundations",
+        "HTML/CSS",
+        "JavaScript",
+        "Node.js",
+        "Databases and SQL",
+        "APIs",
+        "Git and GitHub",
+        "Backend development",
+        "Authentication",
+        "Testing",
+        "Deployment",
+        "Projects"
+      ]
+    }
+  ]
+}

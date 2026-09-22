@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: emmy-j-code
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: HOST
+        value: 0.0.0.0
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: DB_HOST
+        sync: false
+      - key: DB_PORT
+        value: "3306"
+      - key: DB_NAME
+        value: emmy_j_code
+      - key: DB_USER
+        sync: false
+      - key: DB_PASSWORD
+        sync: false

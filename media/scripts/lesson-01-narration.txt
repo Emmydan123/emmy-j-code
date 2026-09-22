@@ -1,0 +1,16 @@
+EMMY J CODE — LESSON 1 NARRATION SCRIPT
+
+Scene 1 — Welcome
+Welcome to Emmy J Code. In this lesson, we are going to answer a very important question: what is a computer?
+
+Scene 2 — Definition
+A computer is an electronic machine that accepts data, processes it according to instructions, produces information, and can store results for later use.
+
+Scene 3 — Everyday example
+Imagine typing a school assignment. Your keyboard provides input. The computer processes what you type. The monitor shows the result. When you save the document, the computer stores it.
+
+Scene 4 — Hardware and software
+Hardware is the physical equipment. Software is the set of programs and instructions that tell the equipment what to do.
+
+Scene 5 — Summary
+Remember the basic ideas: input, processing, output and storage. These concepts will appear throughout your Emmy J Code learning journey.

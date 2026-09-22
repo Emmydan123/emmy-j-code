@@ -1,0 +1,18 @@
+{
+  "title":"Emmy J Code Programming",
+  "access":"Requires Grand Master rank or higher AND approved payment",
+  "modules":[
+    {"id":"pg-01","title":"Programming Foundations","lessons":["What programming is","How programs work","Algorithms and problem solving","Variables, data and operators","Conditions and decisions","Loops and repetition","Functions and reusable code","Errors and debugging"]},
+    {"id":"pg-02","title":"HTML and CSS","lessons":["HTML document structure","Text, links and lists","Images, audio and video","Tables and forms","Semantic HTML and accessibility","CSS selectors and properties","Box model and layout","Responsive design","Build a complete webpage"]},
+    {"id":"pg-03","title":"JavaScript","lessons":["JavaScript basics","Variables and data types","Operators and conditions","Loops","Functions","Arrays and objects","DOM manipulation","Events and forms","Async JavaScript","Fetch and APIs","Error handling","Build projects"]},
+    {"id":"pg-04","title":"Node.js","lessons":["Node.js setup","npm and packages","Modules","File system","HTTP servers","Express","Routing","Middleware","REST APIs","Environment variables"]},
+    {"id":"pg-05","title":"Databases and SQL","lessons":["Database concepts","Tables and relationships","SELECT","INSERT/UPDATE/DELETE","WHERE/ORDER/GROUP","JOINs","Indexes","Transactions","MySQL projects"]},
+    {"id":"pg-06","title":"APIs","lessons":["What an API is","HTTP methods","JSON","Requests and responses","Authentication","Validation","Error handling","Build a REST API","Consume an API"]},
+    {"id":"pg-07","title":"Git and GitHub","lessons":["Git concepts","Repositories","Commits","Branches","Merging","Pull requests","Remote repositories","Issues and collaboration"]},
+    {"id":"pg-08","title":"Backend Development","lessons":["Backend architecture","MVC","Validation","Sessions","Authorization","File handling","Security","Testing","Production configuration"]},
+    {"id":"pg-09","title":"Authentication","lessons":["Registration","Password hashing","Login sessions","Roles and permissions","Email verification concepts","Password reset concepts","Secure authentication practices"]},
+    {"id":"pg-10","title":"Testing","lessons":["Why testing matters","Unit tests","Integration tests","API testing","Browser testing","Test plans","Debugging failures"]},
+    {"id":"pg-11","title":"Deployment","lessons":["Development vs production","Environment variables","Builds","Domains and DNS","HTTPS","Deployment workflow","Logs and monitoring","Backups"]},
+    {"id":"pg-12","title":"Capstone Projects","lessons":["Plan a project","Design database","Build frontend","Build backend","Authentication","Testing","Deployment","Final portfolio project"]}
+  ]
+}
