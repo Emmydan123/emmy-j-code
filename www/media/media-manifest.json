@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "offlinePolicy": {"text": true, "audio": false, "video": false, "images": false},
+  "lessonMedia": {
+    "bf-01-01": {
+      "title": "Computer Fundamentals — Lesson 1",
+      "video": "/media/video/computer-fundamentals-01.mp4",
+      "audio": "/media/audio/computer-fundamentals-01.mp3",
+      "captions": "/media/captions/computer-fundamentals-01.vtt",
+      "transcript": "This lesson introduces the basics of a computer, how it starts, and how it helps people learn and work.",
+      "captionNote": "Sample lesson media added for the Emmy J Code learning experience."
+    }
+  },
+  "notes": "Add lesson-specific MP4/MP3/WebP/JPG assets to media folders and register them here. The player gracefully hides missing media."
+}

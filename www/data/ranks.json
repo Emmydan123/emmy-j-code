@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Rookie",
+    "minXP": 0
+  },
+  {
+    "name": "Bronze",
+    "minXP": 500
+  },
+  {
+    "name": "Silver",
+    "minXP": 2000
+  },
+  {
+    "name": "Gold",
+    "minXP": 4000
+  },
+  {
+    "name": "Platinum",
+    "minXP": 7000
+  },
+  {
+    "name": "Diamond",
+    "minXP": 11000
+  },
+  {
+    "name": "Master",
+    "minXP": 16000
+  },
+  {
+    "name": "Grand Master",
+    "minXP": 22000,
+    "programmingUnlock": true
+  },
+  {
+    "name": "Legend",
+    "minXP": 30000
+  }
+]
