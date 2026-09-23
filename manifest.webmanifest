@@ -1,6 +1,7 @@
 {
   "name": "Emmy J Code",
   "short_name": "Emmy J Code",
+  "id": "/",
   "description": "Learn computer and IT skills through practical lessons, practice and mastery.",
   "start_url": "/",
   "scope": "/",
@@ -10,6 +11,7 @@
   "theme_color": "#5b4bdb",
   "orientation": "portrait-primary",
   "lang": "en-US",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/icons/icon-192.png",
